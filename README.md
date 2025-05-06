@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=IVAN0137&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Ivan!+%F0%9F%91%8B;Desarrollador+en+formación;Futuro+Ingeniero;Apasionado+por+la+tecnología" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Ivan!+%F0%9F%91%8B;Desarrollador+en+formación;Apasionado+por+la+tecnología" alt="Typing SVG" />
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
@@ -213,45 +213,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<!-- SECCIÓN DE METAS Y LOGROS -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="30">
-  Metas y Logros
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="30">
-</h1>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <div style="background: linear-gradient(to right, #fc5c7d, #6a82fb); padding: 15px; border-radius: 10px; color: white;">
-          <img src="https://media.giphy.com/media/LPgFwCQg4HQBvPihcn/giphy.gif" width="30">
-          <b>Completar mi residencia profesional con excelencia</b>
-        </div>
-      </td>
-      <td>
-        <div style="background: linear-gradient(to right, #11998e, #38ef7d); padding: 15px; border-radius: 10px; color: white;">
-          <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="30">
-          <b>Contribuir a proyectos open source</b>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div style="background: linear-gradient(to right, #f857a6, #ff5858); padding: 15px; border-radius: 10px; color: white;">
-          <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30">
-          <b>Dominar nuevas tecnologías y frameworks</b>
-        </div>
-      </td>
-      <td>
-        <div style="background: linear-gradient(to right, #0f0c29, #302b63, #24243e); padding: 15px; border-radius: 10px; color: white;">
-          <img src="https://media.giphy.com/media/3ohhwExYXg3q8oUuSk/giphy.gif" width="30">
-          <b>Desarrollar un portafolio profesional impresionante</b>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -265,18 +226,15 @@
 </h1>
 
 <div align="center">
-  <a href="mailto:tu-email@example.com">
+  <a href="mailto:ivanmtzgudino@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/tu-perfil/">
+  <a href="https://www.linkedin.com/in/ivan-martinez-gudi%C3%B1o-404884343/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/tu-usuario">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/tu-usuario/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<a href="https://wa.me/527207444187" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
 </div>
 
 <div align="center">
